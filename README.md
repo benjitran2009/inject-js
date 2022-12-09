@@ -9,7 +9,7 @@ This was a simple injection
 - Fun to mess around with.
 - Shows how dangerous javascript can be used in the wrong hands
 
-- [Playground (make sure to use the inject bookmark/url)](about:blank)
+- Example Website: about:blank#blocked
 
 **Drag to bookmark bar to use.**
 **known issue: will always show at bottom of website.**
