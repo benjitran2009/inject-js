@@ -5,6 +5,11 @@
 ![Injected using example website](images/example-revision2.png)
 This was a simple injection
 
+- Easy Injection (using bookmark/url method)
+- Fun to mess around with.
+- Shows how dangerous javascript can be used in the wrong hands
+
+- [Playground (make sure to use the inject bookmark/url)](about:blank)
 
 **Drag to bookmark bar to use.**
 **known issue: will always show at bottom of website.**
